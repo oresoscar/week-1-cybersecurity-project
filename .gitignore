@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual machine files - do NOT commit these to GitHub
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Editor/system folders
+.vscode/
+.idea/
