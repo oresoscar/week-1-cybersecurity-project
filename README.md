@@ -7,7 +7,7 @@ cybersecurity testing laboratory environment using Oracle VirtualBox and Kali Li
 
 ### Scope
 
-This repository covers **Phase 1 only**. The assignment defines six Phase 1 steps:
+This repository covers **Phase 1 **. The assignment defines six Phase 1 steps:
 
 1. Download and install 7-Zip.
 2. Download and install Oracle VirtualBox.
@@ -20,8 +20,7 @@ The assignment also requires Kali Linux to have Internet access. Clipboard/file
 drag-and-drop and a shared `/downloads` folder are part of the lab setup
 requirements.
 
-> **Note:** Phase 2 is intentionally excluded. It covers additional Windows,
-> Android, inter-VM ping testing, and snapshots for future/optional tasks.
+
 
 ## Lab Configuration
 
@@ -66,8 +65,7 @@ Recommended evidence:
 - `21.png`
 - `22.png`
 
-**Important:** Replace the placeholder evidence with your own screenshots.
-Do not claim a step was completed until you have captured evidence of it.
+
 
 ## Suggested Kali Verification Commands
 
@@ -75,9 +73,9 @@ After configuring Kali, the following commands can be used to document the
 configuration:
 
 ```bash
-ip addr
-ip route
-ping -c 4 8.8.8.8
+ifconfig eth down/up
+ifconfig
+ping albaba.com
 ```
 
 Use only commands appropriate to your own lab and assignment.
