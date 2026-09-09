@@ -2,7 +2,7 @@
 
 ## NetworkWalks Cybersecurity & Ethical Hacking Internship
 
-This repository documents **Week 1, Project Module 1 (WK1-PM1)**: setting up a
+This repository documents **Week 1, Project **: setting up a
 cybersecurity testing laboratory environment using Oracle VirtualBox and Kali Linux.
 
 ### Scope
