@@ -53,13 +53,18 @@ during the implementation.
 
 Recommended evidence:
 
-- `01-7zip-installed.png`
-- `02-virtualbox-installed.png`
-- `03-natnetwork-configuration.png`
-- `04-kali-imported.png`
-- `05-kali-ip-configuration.png`
-- `06-kali-internet-access.png`
-- `07-vm-snapshot.png`
+- `11.png`
+- `12.png`
+- `13.png`
+- `14.png`
+- `15.png`
+- `16.png`
+- `17.png`
+-  `18.png`
+- `19.png`
+- `20.png`
+- `21.png`
+- `22.png`
 
 **Important:** Replace the placeholder evidence with your own screenshots.
 Do not claim a step was completed until you have captured evidence of it.
@@ -105,5 +110,5 @@ NetworkWalks Academy
 
 ## Reference
 
-Week 1 Project Module 1 (WK1-PM1), NetworkWalks Academy — Lab Setup:
+Week 1 Project , NetworkWalks Academy — Lab Setup:
 VirtualBox and Kali Linux.
