@@ -4,13 +4,18 @@ Add your own screenshots from the Phase 1 implementation here.
 
 Recommended filenames:
 
-1. `01-7zip-installed.png`
-2. `02-virtualbox-installed.png`
-3. `03-natnetwork-configuration.png`
-4. `04-kali-imported.png`
-5. `05-kali-ip-configuration.png`
-6. `06-kali-internet-access.png`
-7. `07-vm-snapshot.png`
+11.png
+12.png
+13.png
+14.png
+15.png
+16.png
+17.png
+18.png
+19.png
+20.png
+21.png
+22.png
 
 For cybersecurity lab evidence, make sure screenshots do not expose
 unnecessary personal information, passwords, private keys, tokens, or other
